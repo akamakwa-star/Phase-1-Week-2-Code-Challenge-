@@ -1,5 +1,5 @@
 // Base URL for API requests
-const BASE_URL = 'http://localhost:5003/characters';
+const BASE_URL = 'http://localhost:3000/characters';
 // DOM elements for animal list, details, and form
 const characterList = document.getElementById('character-list');
 const characterDetails = document.getElementById('character-details');
